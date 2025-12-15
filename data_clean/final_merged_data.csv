@@ -1,0 +1,4 @@
+order_id,shipper_id,distance_km,delivery_time_min,full_name,region,rating
+O01,S01,5.0,30.0,Nguyen  Van A,Bắc,5.0
+O02,S02,,,Tran Thi  B,Trung,
+O03,S03,,45.0,,,
