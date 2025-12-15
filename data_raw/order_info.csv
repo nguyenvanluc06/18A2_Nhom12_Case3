@@ -1,0 +1,4 @@
+order_id,shipper_id,distance_km,delivery_time_min
+O01,S01,5,30
+O02,S02,-3,NA
+O03,S03,abc,45
